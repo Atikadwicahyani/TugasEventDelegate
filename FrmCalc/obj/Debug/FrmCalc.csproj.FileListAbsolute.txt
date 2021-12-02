@@ -1,0 +1,22 @@
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csprojAssemblyReference.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.CoreCompileInputs.cache
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\A Data Kuliah\Pemrograman\del\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe.config
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.exe
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\bin\Debug\FrmCalc.pdb
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.AssemblyReference.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmCal.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.FrmEntryCal.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.Properties.Resources.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.GenerateResource.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.csproj.CoreCompileInputs.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.exe
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\CalculatorEventDelegation-master\FrmCalc\FrmCalc\obj\Debug\FrmCalc.pdb
